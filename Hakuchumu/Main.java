@@ -7,7 +7,7 @@ public class Main{
         StringBuilder str = new StringBuilder(str_);
         StringBuilder strrev = str.reverse();
 
-        int len = str.length();
+        int len = strrev.length();
         int para = 0;
 
         String Dr = "remaerd"; String D = "maerd"; String Er = "resare"; String E = "esare";
