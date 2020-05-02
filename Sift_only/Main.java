@@ -6,6 +6,15 @@ public class Main {
         int num = sc.nextInt();
         int[] num_box = new int[num];
 
-        for(int i=0; i<num; i++)
+        for(int i=0; i<num; i++){
+            num_box[i] = sc.nextInt();
+        }
+
+        boolean even = true;
+        for()
+    }
+
+    private int map_devide2(int[] x) {
+        
     }
 }
